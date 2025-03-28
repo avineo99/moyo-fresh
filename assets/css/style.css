@@ -98,13 +98,6 @@ h1, .h1{
 .fs-14{
     font-size: 14px;
 }
-
-.fs-16{
-    font-size: 16px;
-}
-.fs-17{
-    font-size: 17px;
-}
 .fs-18{
     font-size: 18px;
 }
@@ -114,9 +107,7 @@ h1, .h1{
 .fs-22{
     font-size: 22px;
 }
-.fs-24{
-    font-size: 24px;
-}
+
 .fs-25{
     font-size: 25px;
 }
@@ -326,9 +317,7 @@ button#ScrollToTop {
         width: 130px;
     }
 
-    .fs-17 {
-        font-size: 15px;
-    }
+  
     .navbar-nav .nav-link {
         font-size: 20px;
     }
@@ -347,20 +336,14 @@ button#ScrollToTop {
         font-size: 32px;
     }
 
-    .fs-16 {
-        font-size: 14px;
-    }
+
 
     .footer-wrap ul li a, .footer-wrap ul li {
         font-size: 14px;
         word-break: break-all;
     }
-    .fs-13 {
-        font-size: 11px;
-    }
-    .fs-24 {
-        font-size: 22px;
-    }
+
+
     .fs-20 {
         font-size: 18px;
     }
@@ -389,9 +372,7 @@ button#ScrollToTop {
     .fs-25 {
         font-size: 22px;
     }
-    .fs-24 {
-        font-size: 20px;
-    }
+
     .fs-20 {
         font-size: 16px;
     }
@@ -402,18 +383,14 @@ button#ScrollToTop {
         height: 350px;
     }
 
-    .fs-24 {
-        font-size: 16px;
-    }
+
     .fs-25 {
         font-size: 18px;
     }
     h1, .h1 {
         font-size: 40px;
     }
-    .fs-17 {
-        font-size: 15px;
-    }
+ 
     .btn {
         font-size: 15px;
     }
@@ -431,9 +408,7 @@ button#ScrollToTop {
         padding: 10px 38px;
     }
 
-    .fs-13 {
-        font-size: 10px;
-    }
+
     .navbar-toggler {
         font-size: 16px;
         padding: 0;
