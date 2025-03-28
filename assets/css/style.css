@@ -383,7 +383,16 @@ button#ScrollToTop {
         height: 350px;
     }
 
-
+    .navbar-toggler i {
+        font-size: 25px;
+    }
+    .offcanvas-body {
+        flex-grow: 1;
+        padding: 1rem 1rem;
+        overflow-y: visible;
+        border: none;
+        height: auto;
+    }
     .fs-25 {
         font-size: 18px;
     }
